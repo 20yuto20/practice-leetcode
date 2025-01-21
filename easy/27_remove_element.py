@@ -50,3 +50,6 @@ class solutions:
                 i += 1
         
         return i
+    
+    
+
